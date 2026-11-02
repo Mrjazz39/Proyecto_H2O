@@ -20,3 +20,6 @@ build/
 # Sistema
 .DS_Store
 Thumbs.db
+
+# Configuración local de Codex
+/.codex/
